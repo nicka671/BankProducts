@@ -1,0 +1,6 @@
+bank\AvailableCurrency.class
+bank\BankProduct.class
+bank\cards\Card.class
+bank\deposits\Deposit.class
+bank\Passport.class
+bank\cards\CreditCard.class
